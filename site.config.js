@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'b2f14595158745939ca3e39c2e2b82e4',
+  rootNotionPageId: 'cb54e6321efb4b4ba15dde547b76d002',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Zoe's Library',
-  domain: 'https://stupendous-wholesaler-e15.notion.site/Zoe-s-Library-b2f14595158745939ca3e39c2e2b82e4',
+  name: 'StrongCertainAloneZoeAmosCullen',
+  domain: 'https://stupendous-wholesaler-e15.notion.site/StrongCertainAloneZoeAmosCullen-cb54e6321efb4b4ba15dde547b76d002',
   author: 'Zoe Amos',
 
   // open graph metadata (optional)
